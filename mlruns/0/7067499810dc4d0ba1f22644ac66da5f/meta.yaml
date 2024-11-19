@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/7067499810dc4d0ba1f22644ac66da5f/artifacts
+end_time: 1731990222019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7067499810dc4d0ba1f22644ac66da5f
+run_name: clumsy-crab-749
+run_uuid: 7067499810dc4d0ba1f22644ac66da5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731990207651
+status: 4
+tags: []
+user_id: sarathy6it

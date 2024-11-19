@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/7d8eab0839e1436390cf3f2a23684800/artifacts
+end_time: 1731989681221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d8eab0839e1436390cf3f2a23684800
+run_name: smiling-stag-617
+run_uuid: 7d8eab0839e1436390cf3f2a23684800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989664593
+status: 4
+tags: []
+user_id: sarathy6it

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/f6219a1c218a4a4fb27f0ff91247c36f/artifacts
+end_time: 1731986414477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6219a1c218a4a4fb27f0ff91247c36f
+run_name: sedate-chimp-489
+run_uuid: f6219a1c218a4a4fb27f0ff91247c36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986402050
+status: 4
+tags: []
+user_id: sarathy6it

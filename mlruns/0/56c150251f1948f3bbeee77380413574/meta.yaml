@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/56c150251f1948f3bbeee77380413574/artifacts
+end_time: 1731989680992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56c150251f1948f3bbeee77380413574
+run_name: bold-dove-946
+run_uuid: 56c150251f1948f3bbeee77380413574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989666278
+status: 4
+tags: []
+user_id: sarathy6it

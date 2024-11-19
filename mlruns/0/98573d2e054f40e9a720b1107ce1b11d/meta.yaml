@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/98573d2e054f40e9a720b1107ce1b11d/artifacts
+end_time: 1731988421549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98573d2e054f40e9a720b1107ce1b11d
+run_name: nervous-fish-625
+run_uuid: 98573d2e054f40e9a720b1107ce1b11d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988356439
+status: 4
+tags: []
+user_id: sarathy6it

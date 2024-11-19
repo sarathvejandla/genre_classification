@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/2f8809dd2d644f0c8949f88f2b0dae25/artifacts
+end_time: 1731982625619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f8809dd2d644f0c8949f88f2b0dae25
+run_name: shivering-turtle-469
+run_uuid: 2f8809dd2d644f0c8949f88f2b0dae25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982559155
+status: 4
+tags: []
+user_id: sarathy6it

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/11f3bf09fc1d450e8e3e21facb23377d/artifacts
+end_time: 1731986679285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11f3bf09fc1d450e8e3e21facb23377d
+run_name: youthful-bass-786
+run_uuid: 11f3bf09fc1d450e8e3e21facb23377d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986661899
+status: 3
+tags: []
+user_id: sarathy6it

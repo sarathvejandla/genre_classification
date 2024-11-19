@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/780f3e8b08e848bcb8fdd55c5a8dda99/artifacts
+end_time: 1731989960315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780f3e8b08e848bcb8fdd55c5a8dda99
+run_name: angry-newt-843
+run_uuid: 780f3e8b08e848bcb8fdd55c5a8dda99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989941239
+status: 4
+tags: []
+user_id: sarathy6it

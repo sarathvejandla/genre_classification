@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/5cb2ffcedffc4d80862eb02a7ea40bc5/artifacts
+end_time: 1731985426488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cb2ffcedffc4d80862eb02a7ea40bc5
+run_name: hilarious-koi-751
+run_uuid: 5cb2ffcedffc4d80862eb02a7ea40bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731985156635
+status: 3
+tags: []
+user_id: sarathy6it

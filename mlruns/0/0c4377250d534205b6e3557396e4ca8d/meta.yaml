@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/0c4377250d534205b6e3557396e4ca8d/artifacts
+end_time: 1731989220078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c4377250d534205b6e3557396e4ca8d
+run_name: nimble-gnat-400
+run_uuid: 0c4377250d534205b6e3557396e4ca8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989201918
+status: 4
+tags: []
+user_id: sarathy6it

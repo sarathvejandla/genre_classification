@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/fd0ab339bf3e472eacbf394f96951255/artifacts
+end_time: 1731982534914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd0ab339bf3e472eacbf394f96951255
+run_name: tasteful-slug-698
+run_uuid: fd0ab339bf3e472eacbf394f96951255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982408333
+status: 4
+tags: []
+user_id: sarathy6it

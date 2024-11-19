@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/a958a82388f244b3b2d7966010c17ced/artifacts
+end_time: 1731987929363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a958a82388f244b3b2d7966010c17ced
+run_name: fun-mare-800
+run_uuid: a958a82388f244b3b2d7966010c17ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987852460
+status: 4
+tags: []
+user_id: sarathy6it

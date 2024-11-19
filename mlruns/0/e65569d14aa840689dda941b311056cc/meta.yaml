@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/e65569d14aa840689dda941b311056cc/artifacts
+end_time: 1731987929066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65569d14aa840689dda941b311056cc
+run_name: thoughtful-eel-551
+run_uuid: e65569d14aa840689dda941b311056cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987855570
+status: 4
+tags: []
+user_id: sarathy6it

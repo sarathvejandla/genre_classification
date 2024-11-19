@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/8aa0f201cf4349a4b878b5b2bceec4b4/artifacts
+end_time: 1731985426667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aa0f201cf4349a4b878b5b2bceec4b4
+run_name: awesome-shrike-989
+run_uuid: 8aa0f201cf4349a4b878b5b2bceec4b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731985153216
+status: 3
+tags: []
+user_id: sarathy6it

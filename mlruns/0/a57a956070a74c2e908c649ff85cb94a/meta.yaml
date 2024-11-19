@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/a57a956070a74c2e908c649ff85cb94a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a57a956070a74c2e908c649ff85cb94a
+run_name: funny-sponge-960
+run_uuid: a57a956070a74c2e908c649ff85cb94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988209091
+status: 1
+tags: []
+user_id: sarathy6it

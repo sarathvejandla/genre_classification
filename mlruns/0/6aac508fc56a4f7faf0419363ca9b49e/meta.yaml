@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/6aac508fc56a4f7faf0419363ca9b49e/artifacts
+end_time: 1731987279536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aac508fc56a4f7faf0419363ca9b49e
+run_name: abrasive-rook-784
+run_uuid: 6aac508fc56a4f7faf0419363ca9b49e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987200442
+status: 3
+tags: []
+user_id: sarathy6it

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/e48ea87626f345deb5879ff065b6087d/artifacts
+end_time: 1731989006702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e48ea87626f345deb5879ff065b6087d
+run_name: able-panda-15
+run_uuid: e48ea87626f345deb5879ff065b6087d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989003493
+status: 4
+tags: []
+user_id: sarathy6it

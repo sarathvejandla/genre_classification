@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/b587684d237c49fc82ab79ff2ff50631/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b587684d237c49fc82ab79ff2ff50631
+run_name: trusting-gnu-841
+run_uuid: b587684d237c49fc82ab79ff2ff50631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731983227285
+status: 1
+tags: []
+user_id: sarathy6it

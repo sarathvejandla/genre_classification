@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/3801382962ab49658892d174cfc7913e/artifacts
+end_time: 1731985757992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3801382962ab49658892d174cfc7913e
+run_name: caring-fox-804
+run_uuid: 3801382962ab49658892d174cfc7913e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731985702102
+status: 4
+tags: []
+user_id: sarathy6it

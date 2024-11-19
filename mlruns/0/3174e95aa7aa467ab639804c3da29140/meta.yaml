@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/3174e95aa7aa467ab639804c3da29140/artifacts
+end_time: 1731989440227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3174e95aa7aa467ab639804c3da29140
+run_name: exultant-smelt-650
+run_uuid: 3174e95aa7aa467ab639804c3da29140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989422778
+status: 4
+tags: []
+user_id: sarathy6it

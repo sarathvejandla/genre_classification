@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/f67cd2b3ba6343748066c5df4f76bda7/artifacts
+end_time: 1731989439991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f67cd2b3ba6343748066c5df4f76bda7
+run_name: merciful-carp-274
+run_uuid: f67cd2b3ba6343748066c5df4f76bda7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989425283
+status: 4
+tags: []
+user_id: sarathy6it

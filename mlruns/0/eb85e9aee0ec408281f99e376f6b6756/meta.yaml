@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/eb85e9aee0ec408281f99e376f6b6756/artifacts
+end_time: 1731987095142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb85e9aee0ec408281f99e376f6b6756
+run_name: incongruous-bug-963
+run_uuid: eb85e9aee0ec408281f99e376f6b6756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987083446
+status: 3
+tags: []
+user_id: sarathy6it

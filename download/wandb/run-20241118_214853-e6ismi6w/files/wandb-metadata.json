@@ -1,0 +1,129 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-11-19T02:48:54.321842",
+    "startedAt": "2024-11-19T02:48:53.796694",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/sarathy6it/genre_classification/download/download_data.py",
+    "codePathLocal": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/sarathvejandla/genre_classification.git",
+        "commit": "77ab7433768abad13979b1ba09ee2bacc3210133"
+    },
+    "email": "sarathy6it@gmail.com",
+    "root": "/home/sarathy6it/genre_classification",
+    "host": "Thinkpad",
+    "username": "sarathy6it",
+    "executable": "/home/sarathy6it/miniconda3/envs/mlflow-e190ff1f176d660e6839ac34c7d6bc74393e2ccd/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1896.3770000000002,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 14.088340759277344
+        }
+    },
+    "memory": {
+        "total": 7.178058624267578
+    }
+}

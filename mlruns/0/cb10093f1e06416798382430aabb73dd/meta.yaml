@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/cb10093f1e06416798382430aabb73dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb10093f1e06416798382430aabb73dd
+run_name: illustrious-rook-736
+run_uuid: cb10093f1e06416798382430aabb73dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982742845
+status: 1
+tags: []
+user_id: sarathy6it

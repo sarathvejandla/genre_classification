@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/c4c51e02987c49ebb4c577435a08b117/artifacts
+end_time: 1731988460166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4c51e02987c49ebb4c577435a08b117
+run_name: upset-panda-828
+run_uuid: c4c51e02987c49ebb4c577435a08b117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988453307
+status: 4
+tags: []
+user_id: sarathy6it

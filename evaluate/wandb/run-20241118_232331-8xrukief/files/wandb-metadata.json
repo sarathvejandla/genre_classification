@@ -1,0 +1,125 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.10.15",
+    "heartbeatAt": "2024-11-19T04:23:32.203568",
+    "startedAt": "2024-11-19T04:23:31.725541",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/sarathy6it/genre_classification/evaluate/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/sarathvejandla/genre_classification.git",
+        "commit": "77ab7433768abad13979b1ba09ee2bacc3210133"
+    },
+    "email": "sarathy6it@gmail.com",
+    "root": "/home/sarathy6it/genre_classification",
+    "host": "Thinkpad",
+    "username": "sarathy6it",
+    "executable": "/home/sarathy6it/miniconda3/envs/mlflow-9f245964561a1a7910200f2ef894dc745ad18827/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1896.3770000000002,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1896.377,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 16.60681915283203
+        }
+    },
+    "memory": {
+        "total": 7.178058624267578
+    }
+}

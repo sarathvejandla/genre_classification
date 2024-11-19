@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/fd4e926cc1b447d595b8e6f82ff6e174/artifacts
+end_time: 1731987279689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd4e926cc1b447d595b8e6f82ff6e174
+run_name: grandiose-swan-469
+run_uuid: fd4e926cc1b447d595b8e6f82ff6e174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987197873
+status: 3
+tags: []
+user_id: sarathy6it

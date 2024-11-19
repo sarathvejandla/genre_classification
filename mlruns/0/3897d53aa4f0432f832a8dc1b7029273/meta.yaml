@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/3897d53aa4f0432f832a8dc1b7029273/artifacts
+end_time: 1731988459893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3897d53aa4f0432f832a8dc1b7029273
+run_name: bouncy-midge-635
+run_uuid: 3897d53aa4f0432f832a8dc1b7029273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988456623
+status: 4
+tags: []
+user_id: sarathy6it

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/940f5ab6d35d424d9eebde1da826a66a/artifacts
+end_time: 1731987095295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 940f5ab6d35d424d9eebde1da826a66a
+run_name: melodic-bee-584
+run_uuid: 940f5ab6d35d424d9eebde1da826a66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987080590
+status: 3
+tags: []
+user_id: sarathy6it

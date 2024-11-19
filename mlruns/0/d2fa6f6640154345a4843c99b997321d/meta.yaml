@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/d2fa6f6640154345a4843c99b997321d/artifacts
+end_time: 1731984545124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2fa6f6640154345a4843c99b997321d
+run_name: angry-duck-285
+run_uuid: d2fa6f6640154345a4843c99b997321d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731984513282
+status: 3
+tags: []
+user_id: sarathy6it

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/1063c51d05e24d4989ae7ae50085eea0/artifacts
+end_time: 1731987317076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1063c51d05e24d4989ae7ae50085eea0
+run_name: ambitious-finch-167
+run_uuid: 1063c51d05e24d4989ae7ae50085eea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731987311482
+status: 4
+tags: []
+user_id: sarathy6it

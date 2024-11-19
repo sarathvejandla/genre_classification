@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/354d4adf2b3741e2ba15a9400985d844/artifacts
+end_time: 1731990525390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 354d4adf2b3741e2ba15a9400985d844
+run_name: delightful-fish-83
+run_uuid: 354d4adf2b3741e2ba15a9400985d844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731990522743
+status: 4
+tags: []
+user_id: sarathy6it

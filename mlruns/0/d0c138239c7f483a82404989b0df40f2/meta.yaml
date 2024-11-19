@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/d0c138239c7f483a82404989b0df40f2/artifacts
+end_time: 1731986414693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0c138239c7f483a82404989b0df40f2
+run_name: serious-zebra-636
+run_uuid: d0c138239c7f483a82404989b0df40f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986398515
+status: 4
+tags: []
+user_id: sarathy6it

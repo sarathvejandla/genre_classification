@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/13c6cefbc49240299a935ab7934b0a7a/artifacts
+end_time: 1731990222236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13c6cefbc49240299a935ab7934b0a7a
+run_name: righteous-shrimp-824
+run_uuid: 13c6cefbc49240299a935ab7934b0a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731990205157
+status: 4
+tags: []
+user_id: sarathy6it

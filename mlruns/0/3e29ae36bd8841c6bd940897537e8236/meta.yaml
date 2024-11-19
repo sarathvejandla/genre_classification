@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/3e29ae36bd8841c6bd940897537e8236/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e29ae36bd8841c6bd940897537e8236
+run_name: beautiful-newt-88
+run_uuid: 3e29ae36bd8841c6bd940897537e8236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731988359414
+status: 1
+tags: []
+user_id: sarathy6it

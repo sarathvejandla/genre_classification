@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/97f2dfb4656e4237ab575268bfe3b478/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97f2dfb4656e4237ab575268bfe3b478
+run_name: rogue-perch-321
+run_uuid: 97f2dfb4656e4237ab575268bfe3b478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982995027
+status: 1
+tags: []
+user_id: sarathy6it

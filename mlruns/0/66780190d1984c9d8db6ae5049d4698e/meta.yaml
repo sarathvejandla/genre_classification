@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/66780190d1984c9d8db6ae5049d4698e/artifacts
+end_time: 1731984545276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66780190d1984c9d8db6ae5049d4698e
+run_name: thundering-kit-751
+run_uuid: 66780190d1984c9d8db6ae5049d4698e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731984465594
+status: 3
+tags: []
+user_id: sarathy6it

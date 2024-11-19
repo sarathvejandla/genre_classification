@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sarathy6it/genre_classification/mlruns/0/8aa96efd113c4105b1edbeceddb7558d/artifacts
+end_time: 1731989220370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aa96efd113c4105b1edbeceddb7558d
+run_name: orderly-cat-754
+run_uuid: 8aa96efd113c4105b1edbeceddb7558d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731989199375
+status: 4
+tags: []
+user_id: sarathy6it
